@@ -1,0 +1,15 @@
+{
+    "name": "CodeMonkey Hebrew Translate",
+    "version": "1.0",
+    "description": "Right-click a word in the code, and hear the Hebrew translation",
+    "content_scripts": [
+        {
+          "matches": ["https://app.codemonkey.com/challenges/*"],
+          "js": ["contentScript.js"]
+        }
+    ],
+    "icons": {
+       "128": "monkey128.png" 
+    },
+    "manifest_version": 2
+  }
