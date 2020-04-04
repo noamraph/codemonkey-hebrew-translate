@@ -10,5 +10,7 @@ It can be hard for kids to learn to code in English, when they don't know Englis
 
 Note: this extension sends words that were right-clicked and don't yet have a translation to a Google Form, in order for me to record their translation.
 
+The recordings are downloaded by the extension when needed from https://github.com/noamraph/codemonkey-hebrew-translations
+
 monkey clipart from https://publicdomainvectors.org/en/free-clipart/Cartoon-monkey-image/57012.html
 (license: public domain)
