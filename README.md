@@ -2,6 +2,8 @@
 
 ## Right-click a word in the code, and hear the Hebrew translation
 
+![screenshot](screenshot.png)
+
 Install the chrome extension from here: https://chrome.google.com/webstore/detail/codemonkey-hebrew-transla/bnnfadbdjepplpanidmheecjgmehbkpn
 
 It can be hard for kids to learn to code in English, when they don't know English. This extension helps, by letting the child hear the Hebrew translation of a word (and also its English pronunciation) in CodeMonkey when he right-clicks the word.
