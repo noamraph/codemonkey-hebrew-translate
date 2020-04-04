@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "CodeMonkey Hebrew Translate",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "Right-click a word in the code, and hear the Hebrew translation", 
+        "description":"The description of the application, displayed in the web store."
+    }
+}

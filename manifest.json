@@ -1,15 +1,16 @@
 {
-    "name": "CodeMonkey Hebrew Translate",
+    "name": "__MSG_appName__",
     "version": "1.0",
-    "description": "Right-click a word in the code, and hear the Hebrew translation",
+    "description": "__MSG_appDesc__",
+    "default_locale": "he",
     "content_scripts": [
         {
-          "matches": ["https://app.codemonkey.com/challenges/*"],
-          "js": ["contentScript.js"]
+            "matches": ["https://app.codemonkey.com/challenges/*"],
+            "js": ["contentScript.js"]
         }
     ],
     "icons": {
        "128": "monkey128.png" 
     },
     "manifest_version": 2
-  }
+}
