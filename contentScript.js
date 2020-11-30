@@ -33,7 +33,7 @@ function main() {
         return false;
     }, false);
 
-    const buttons = document.querySelectorAll(".game-method");
+    const buttons = document.querySelectorAll(".learned-methods-btn, .game-method");
     buttons.forEach(elem => elem.addEventListener("contextmenu", function(e) {
         e.preventDefault(); 
         translateWord(elem.innerText.trim());
