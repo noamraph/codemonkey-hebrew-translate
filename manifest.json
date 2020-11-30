@@ -5,9 +5,7 @@
     "default_locale": "he",
     "content_scripts": [
         {
-            "matches": ["https://app.codemonkey.com/challenges/*",
-                        "https://app.codemonkey.com/skill_challenges/*",
-                        "https://app.codemonkey.com/math_challenges/*"],
+            "matches": ["https://app.codemonkey.com/*"],
             "js": ["contentScript.js"]
         }
     ],
